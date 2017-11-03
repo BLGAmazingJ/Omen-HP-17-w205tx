@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>DisplayProductID</key>
+	<integer>1134</integer>
+	<key>DisplayProductName</key>
+	<string>MacBook Pro Retina</string>
+	<key>DisplayVendorID</key>
+	<integer>12516</integer>
+	<key>IODisplayEDID</key>
+	<data>
+	AP///////wAw5G4EAAAAAAAYAQSlJhV4Cgu1o1lVoCcMUFQAAAABAQEBAQEBAQEBAQEB
+	AQEBLjaAoHA4H0AwIDUAftcQAAAbHySAoHA4H0AwIDUAftcQAAAbAAAAAAAAAAAAAAAA
+	AAAAAAAAAAAAAgAKMP8KPJYZHUiWAAAAAD8=
+	</data>
+</dict>
+</plist>
